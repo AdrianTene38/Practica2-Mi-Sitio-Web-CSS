@@ -1,13 +1,14 @@
 
-body {
-   
-  }
+
   .menu {
+    background-color: brown;
     width: 10%;
     float:left;
     min-width: 120px;
     padding:2%;
-    
+    border-radius: 10%; 
+    color: black;
+    margin: 5px;
   }
   .contenido {
     width: 80%;
@@ -27,3 +28,5 @@ body {
     color: darkgoldenrod;
   }
 
+
+  
