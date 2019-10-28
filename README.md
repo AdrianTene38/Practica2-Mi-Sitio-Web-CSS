@@ -12,6 +12,7 @@ Esta se creara bajo el modelo de DosColumnas de CSS, esta será la base para real
 
 Con el siguiente código se coloca la imagen base para la página index.html
 Dentro de Styles.css se encuentra los estilos que vamos dando a la imagen, títulos, párrafos, etc. Estas medidas se las debe hacer con una resolución relativa ya que si no se hace esto no se vera muy bien
+![](Capturas/recorte1.JPG)
  
 2.	Cambios estilos H1,H2,H3
 Cambios en h1,h2,h3 ya que lo solicitado es que tengan resoluciones distintas
@@ -50,7 +51,7 @@ Se solicita también que el menú sea redondeado por lo que se realiza lo siguient
 
 Donde se le da un borde de 10% con un fondi Brown
  
-
+![](Capturas/Captura2.JPG)
 4.	Ventana de Contactos
  <div id="contactar">
             <div>
@@ -95,6 +96,7 @@ textarea {
   vertical-align: top;
   height: 5em;
   resize: vertical;
+![](Capturas/recorte1.JPG)
 }
 
 .button {
@@ -105,15 +107,19 @@ textarea {
 5.	Paginas Bien Elaboradas
 
       
-
-
-
+![](Capturas/Captura3.JPG)
+![](Capturas/Captura4.JPG)
+![](Capturas/Captura5.JPG)
+![](Capturas/Captura6.JPG)
+![](Capturas/Captura7.JPG)
+![](Capturas/Captura8.JPG)
 6.	Validacion W3C Validator
-
-      
-
-
-
+![](Capturas/Captura9.JPG)
+![](Capturas/Captura10.JPG)
+![](Capturas/Captura11.JPG)
+![](Capturas/Captura12.JPG)
+![](Capturas/Captura13.JPG)
+![](Capturas/Captura14.JPG)
 
 7.	Link Git-Hub
 Usuario: AdrianTene38
