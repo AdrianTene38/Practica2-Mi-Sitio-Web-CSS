@@ -1,0 +1,46 @@
+
+  .menu {
+    border-radius: 25px;
+    background-color: #ecdd02;
+    max-width: 175px;
+    height: fit-content;
+    width: 15%;
+    float: left;
+    margin: 5px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+  }
+  
+  .contenido {
+    text-align: justify;
+    height: auto;
+    width: 50%;
+    float: left;
+    padding: 15px;
+  }
+  
+  .lateral {
+    text-align: justify;
+    height: auto;
+    width: 19%;
+    float: left;
+    font-size: 11px;
+  }
+  #cuerpo {
+    height: fit-content;
+    width: fit-content;
+    margin: auto;
+  }
+  .contenido > h2 {
+    text-align: center;
+  }
+  
+  footer {
+    clear: both;
+  }
+  
+  
+#contiene {
+    height: fit-content;
+    width: fit-content;
+  }
