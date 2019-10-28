@@ -1,14 +1,13 @@
 
-  .menu {
-    border-radius: 25px;
-    background-color: #ecdd02;
-    max-width: 175px;
-    height: fit-content;
-    width: 15%;
-    float: left;
+    .menu {
+    background-color: brown;
+    width: 10%;
+    float:left;
+    min-width: 120px;
+    padding:2%;
+    border-radius: 10%; 
+    color: black;
     margin: 5px;
-    text-overflow: ellipsis;
-    overflow: hidden;
   }
   
   .contenido {
@@ -43,4 +42,10 @@
 #contiene {
     height: fit-content;
     width: fit-content;
+  }
+  footer {
+    clear:both;
+    text-align:center;
+    color: darkgoldenrod;
+    background-color: yellow;
   }
