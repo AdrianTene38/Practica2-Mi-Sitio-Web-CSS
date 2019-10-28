@@ -28,8 +28,14 @@
   }
 
 
-
   #contenedor {
     height: fit-content;
     width: fit-content;
   }
+
+  #contactar {
+
+    margin-left: 200px;
+ float: left;
+  }
+  

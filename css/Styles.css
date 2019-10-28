@@ -88,3 +88,39 @@ ol{
   color:white;
   text-align: center;
 }
+#contactar {
+  margin: 40px;
+  float: right;
+  width: 400px;
+  padding: 2em;
+}
+
+
+#contactar > section > div + div {
+  margin-top: 10px;
+}
+
+label {
+  display: inline-block;
+  width: 200px;
+  text-align: right;
+  color: white;
+}
+
+input,
+textarea {
+  width: 350px;
+  box-sizing: border-box;
+}
+
+textarea {
+  vertical-align: top;
+  height: 5em;
+  resize: vertical;
+}
+
+.button {
+  padding-left: 175px;
+  color-adjust: red;
+}
+
