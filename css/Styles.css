@@ -1,132 +1,132 @@
 html{
-    background-color:black;
+  background-color:black;
 }
 
 h1{
-  color: white;
-    font-size: 30px;
+color: white;
+  font-size: 30px;
 }
 
 h2{
-  color: white;
-    font-size: 30px;
+color: white;
+  font-size: 30px;
 }
 
 
 p  {
-  color: white;
-    text-align: justify;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 20px;
+color: white;
+  text-align: justify;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
 }
 p>b {
 color: blue;}
 .centrar_imagen >img{
-    text-align: center; 
+  text-align: center; 
 }
 
 
 .redondo >img{
 
-  max-height: fit-content;
-  max-width: fit-content;
-  border-radius: 20px;
-  height: 100%;
-  width: 100%;
+max-height: fit-content;
+max-width: fit-content;
+border-radius: 20px;
+height: 100%;
+width: 100%;
 }
 
 .centratexto {
-    text-align: center;
+  text-align: center;
 }
 
 nav {
-    font-size: 0.9em;
-  }
-  
-  nav > ul {
-    line-height: 2em;
-    list-style-type: none;
-    padding-left: 5px;
-    font-family: cursive;
-    color: darkgoldenrod;
-  }
-  
-  nav > ul > li > a:link,
-  nav > ul > li > a:visited {
-    color: white;
-    text-decoration: none;
+  font-size: 0.9em;
+}
 
-  }
+nav > ul {
+  line-height: 2em;
+  list-style-type: none;
+  padding-left: 5px;
+  font-family: cursive;
+  color: darkgoldenrod;
+}
+
+nav > ul > li > a:link,
+nav > ul > li > a:visited {
+  color: white;
+  text-decoration: none;
+
+}
 
 
 
-  
-  nav > ul > li > a:hover,
-  nav > ul > li > a:active {
-    color: blue;
-    text-decoration: underline;
-  }
-  
-  .centrar_imagen {
-    text-align: center; 
+
+nav > ul > li > a:hover,
+nav > ul > li > a:active {
+  color: blue;
+  text-decoration: underline;
+}
+
+.centrar_imagen {
+  text-align: center; 
 }
 
 h3{
-  color: white;
+color: white;
 }
 
 dl  {
-  color: white;
-  text-align: justify;
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 20px;
+color: white;
+text-align: justify;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
 }
 
 
 ol{
-  
-  color: white;
-  text-align: justify;
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 20px;
+
+color: white;
+text-align: justify;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
 }
 #titulo {
-  color:white;
-  text-align: center;
+color:white;
+text-align: center;
 }
 #contactar {
-  margin: 40px;
-  float: right;
-  width: 400px;
-  padding: 2em;
+margin: 40px;
+float: right;
+width: 400px;
+padding: 2em;
 }
 
 
 #contactar > section > div + div {
-  margin-top: 10px;
+margin-top: 10px;
 }
 
 label {
-  display: inline-block;
-  width: 200px;
-  text-align: right;
-  color: white;
+display: inline-block;
+width: 200px;
+text-align: right;
+color: white;
 }
 
 input,
 textarea {
-  width: 350px;
-  box-sizing: border-box;
+width: 350px;
+box-sizing: border-box;
 }
 
 textarea {
-  vertical-align: top;
-  height: 5em;
-  resize: vertical;
+vertical-align: top;
+height: 5em;
+resize: vertical;
 }
 
 .button {
-  padding-left: 175px;
-  color-adjust: red;
+padding-left: 175px;
+color-adjust: red;
 }
 
